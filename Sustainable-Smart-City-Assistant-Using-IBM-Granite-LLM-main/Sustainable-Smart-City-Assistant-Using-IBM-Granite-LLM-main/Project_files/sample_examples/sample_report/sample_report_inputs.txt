@@ -1,0 +1,141 @@
++# Sample JSON Inputs for Report Generator
+
+---
+
+Metropolis (Basic Example):
+{
+  "city_name": "Metropolis",
+  "year": 2023,
+  "energy_consumption_mwh": 12000,
+  "water_usage_gallons": 8000000,
+  "waste_recycled_tons": 5000,
+  "air_quality_index_aqi": 45,
+  "public_transport_ridership": 1500000
+}
+
+---
+
+Greenfield (High Renewable, Low Waste):
+{
+  "city_name": "Greenfield",
+  "year": 2024,
+  "energy_consumption_mwh": 9500,
+  "renewable_energy_mwh": 6000,
+  "water_usage_gallons": 7000000,
+  "waste_recycled_tons": 7000,
+  "waste_to_landfill_tons": 2000,
+  "air_quality_index_aqi": 38,
+  "public_transport_ridership": 1800000,
+  "bike_lane_km": 120
+}
+
+---
+
+Riverbend (Pollution & Water Stress):
+{
+  "city_name": "Riverbend",
+  "year": 2023,
+  "energy_consumption_mwh": 18000,
+  "renewable_energy_mwh": 2000,
+  "water_usage_gallons": 12000000,
+  "waste_recycled_tons": 3000,
+  "air_quality_index_aqi": 110,
+  "public_transport_ridership": 900000,
+  "water_shortage_days": 15
+}
+
+---
+
+TechVille (Smart City):
+{
+  "city_name": "TechVille",
+  "year": 2024,
+  "energy_consumption_mwh": 15000,
+  "renewable_energy_mwh": 9000,
+  "water_usage_gallons": 9500000,
+  "waste_recycled_tons": 8000,
+  "air_quality_index_aqi": 40,
+  "public_transport_ridership": 2200000,
+  "smart_traffic_signals": 85,
+  "smart_meters_installed": 12000,
+  "electric_vehicle_chargers": 350
+}
+
+---
+
+EcoCity (Green Spaces & Public Transport):
+{
+  "city_name": "EcoCity",
+  "year": 2023,
+  "energy_consumption_mwh": 11000,
+  "renewable_energy_mwh": 5000,
+  "water_usage_gallons": 7500000,
+  "waste_recycled_tons": 6000,
+  "air_quality_index_aqi": 50,
+  "public_transport_ridership": 2500000,
+  "urban_green_space_hectares": 320,
+  "tree_planting_campaigns": 5
+}
+
+---
+
+Sunport (Coastal City, Climate Resilience):
+{
+  "city_name": "Sunport",
+  "year": 2024,
+  "energy_consumption_mwh": 14000,
+  "renewable_energy_mwh": 8000,
+  "water_usage_gallons": 9000000,
+  "waste_recycled_tons": 4000,
+  "air_quality_index_aqi": 60,
+  "public_transport_ridership": 1700000,
+  "coastal_flood_events": 3,
+  "solar_panel_coverage_percent": 35
+}
+
+---
+
+Hilltown (Mountain City, Low Population):
+{
+  "city_name": "Hilltown",
+  "year": 2023,
+  "energy_consumption_mwh": 4000,
+  "renewable_energy_mwh": 2500,
+  "water_usage_gallons": 2000000,
+  "waste_recycled_tons": 1200,
+  "air_quality_index_aqi": 30,
+  "public_transport_ridership": 200000,
+  "protected_forest_area_hectares": 500
+}
+
+---
+
+Urbania (Large City, High Density):
+{
+  "city_name": "Urbania",
+  "year": 2024,
+  "energy_consumption_mwh": 25000,
+  "renewable_energy_mwh": 7000,
+  "water_usage_gallons": 20000000,
+  "waste_recycled_tons": 9000,
+  "air_quality_index_aqi": 95,
+  "public_transport_ridership": 5000000,
+  "population_density_per_km2": 12000,
+  "high_rise_buildings": 800
+}
+
+---
+
+Desert Springs (Arid, Water Conservation Focus):
+{
+  "city_name": "Desert Springs",
+  "year": 2023,
+  "energy_consumption_mwh": 8000,
+  "renewable_energy_mwh": 3000,
+  "water_usage_gallons": 3000000,
+  "waste_recycled_tons": 2000,
+  "air_quality_index_aqi": 70,
+  "public_transport_ridership": 400000,
+  "water_saving_initiatives": 7,
+  "desalination_plants": 2
+} 

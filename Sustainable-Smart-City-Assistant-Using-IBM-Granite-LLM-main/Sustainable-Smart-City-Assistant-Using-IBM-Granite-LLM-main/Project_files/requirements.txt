@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn
+requests
+python-dotenv
+sentence-transformers
+pydantic-settings
+pinecone
+scikit-learn
+pandas
+matplotlib
+streamlit-option-menu
+plotly
+numpy
